@@ -247,10 +247,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:https://github.com/bypillaraghu/eficenstart.git</connection>
-    <developerConnection>scm:git:https://github.com/bypillaraghu/eficenstart.git</developerConnection>
+    <connection>scm:git:https://github.com/bypillaraghu/eficienstart.git</connection>
+    <developerConnection>scm:git:https://github.com/bypillaraghu/eficienstart.git</developerConnection>
     <tag>HEAD</tag>
-    <url>scm:git:https://github.com/bypillaraghu/eficenstart.git</url>
+    <url>scm:git:https://github.com/bypillaraghu/eficienstart.git</url>
   </scm>
 
   <prerequisites>
